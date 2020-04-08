@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Entrevoisins.iml" filepath="$PROJECT_DIR$/Entrevoisins.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Entrevoisins.iml" filepath="$PROJECT_DIR$/Entrevoisins.iml" group="Entrevoisins" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Entrevoisins/app" />
     </modules>
   </component>
 </project>
